@@ -1,6 +1,5 @@
-# Data-Analytics-Portfolio
+# ADEDAMOPE ADELEYE PORTFOLIO
 Portfolio of data analytics projects
-Ade's Data Analytics Portfolio
 
 Welcome to my data analytics portfolio. This repository showcases projects where I use data to uncover insights, solve business problems, and support data-driven decision-making.
 
@@ -23,19 +22,20 @@ Key Outcomes:
 Insight 1
 Insight 2
 Recommendation
+
 2. [Project Name]
 
 Objective: Brief description of the analysis.
 
-Tools: Python, Excel
+Tools: Excel
 
 Key Outcomes:
 
 Insight 1
 Insight 2
-Recommendation
-About Me
 
+
+About Me
 I am a Civil Engineering graduate with a growing interest in data analytics. Through these projects, I demonstrate my ability to collect, clean, analyse, and visualise data to generate actionable insights.
 
 Contact
