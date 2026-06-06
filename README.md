@@ -1,42 +1,12 @@
 # ADEDAMOPE ADELEYE PORTFOLIO
-Portfolio of data analytics projects
+Hi!  My name is Adedamope (also known as Ade). I am a Civil Engineering graduate with a growing interest in data analytics. Through these projects, I demonstrate my ability to clean, analyse, and visualise data to generate actionable insights. This repository showcases projects where I use data to uncover insights, solve business problems, and support data-driven decision-making.
 
-Welcome to my data analytics portfolio. This repository showcases projects where I use data to uncover insights, solve business problems, and support data-driven decision-making.
+Skills & Tools Used
 
-Skills & Tools
-
-Microsoft Excel
-Power BI
-Data Cleaning & Transformation
+Microsoft Excel,
+Power BI,
+Data Cleaning & Transformation,
 Data Visualisation
-
-Featured Projects
-1. [Project Name]
-
-Objective: Brief description of the business problem.
-
-Tools: SQL, Power BI
-
-Key Outcomes:
-
-Insight 1
-Insight 2
-Recommendation
-
-2. [Project Name]
-
-Objective: Brief description of the analysis.
-
-Tools: Excel
-
-Key Outcomes:
-
-Insight 1
-Insight 2
-
-
-About Me
-I am a Civil Engineering graduate with a growing interest in data analytics. Through these projects, I demonstrate my ability to collect, clean, analyse, and visualise data to generate actionable insights.
 
 Contact
 LinkedIn: [https://www.linkedin.com/in/adedamope-adeleye/]
